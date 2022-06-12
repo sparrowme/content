@@ -260,7 +260,7 @@ function openRequestedSinglePopup(url) {
     preferences in `about:config`. Since your users are the ones who are
     supposed to use such windows (and not you, being the web author), the best is to avoid
     interfering with their habits and preferences. We recommend to always set the
-    resizability and scrollbars presence (if needed) to yes to insure accessibility to
+    resizability and scrollbars presence (if needed) to yes to ensure accessibility to
     content and usability of windows. This is in the best interests of both the web author
     and the users.
 - How do I resize a window to fit its content?
